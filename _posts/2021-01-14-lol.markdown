@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Miksi kirjoitukseni ovat localhostilla"
-date:   2021-01-14 18:02:50 +0200
+date:   '14.01.2021'
 categories: jekyll update
 ---
 
