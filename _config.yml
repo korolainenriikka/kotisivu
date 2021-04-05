@@ -27,6 +27,7 @@ url: "kirjoituksia.github.io" # the base hostname & protocol for your site, e.g.
 theme: minima
 plugins:
   - jekyll-feed
+ignore_theme_config: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
