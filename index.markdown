@@ -4,3 +4,10 @@
 
 layout: home
 ---
+<nav>
+<a href='/about/'>abouttijee!</a>
+<a href='/heiimoii/'>pleishoulder poust</a>
+<a href='/portfolio/'>ptyönantajahenkilöille</a>
+</nav>
+
+jee kotisivulla jou jou jou
