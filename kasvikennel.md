@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kasvikennel
-permalink: /kotisivu/kasvikennel/
+permalink: /kasvikennel/
 ---
 
 Kasvikennel!

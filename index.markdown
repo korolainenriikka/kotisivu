@@ -11,8 +11,8 @@ olen hyvin pitkään pitänyt hyvin vähän asioiden internetissä jakamiseen ta
 
 Kivoja asioita ovat:
 
-* <a href='/teetietokanta/'>Tee</a>
-* <a href='/kasvikennel/'>Kasvit</a>
+* <a href='/kotisivu/teetietokanta/'>Tee</a>
+* <a href='/kotisivu/kasvikennel/'>Kasvit</a>
 
 Erityisen paljon pidän try-hard ostatämäkatsominua uuh-aah olen niin HUOMIOItu -meiningin välttelystä, siksi tämä nettisivu (tättäräää tärätärärättäräääää) sisältää 0kpl analytiikkaskriptejä! Tai mainoksia tai popupbannereita tai follow me on xyz tai mitään. Design-filosofiasta muutoin: <a href='https://motherfuckingwebsite.com/'>täällä</a>.
 
