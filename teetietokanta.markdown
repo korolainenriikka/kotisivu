@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teetietokanta
-permalink: /teetietokanta/
+permalink: /kotisivu/teetietokanta/
 ---
 
 Teetietokanta!
