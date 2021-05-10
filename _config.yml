@@ -20,7 +20,7 @@
 
 title: ⌂
 description: "riikan internet-koti"
-url: "https://riikankotisivu.github.io"
+baseurl: "/kotisivu"
 
 # Build settings
 theme: jekyll-theme-primer
