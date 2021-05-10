@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kirjoituksia
-description: "Riikan internet-koti"
+title: ⌂
+description: "riikan internet-koti"
 
 # Build settings
 theme: jekyll-theme-primer
