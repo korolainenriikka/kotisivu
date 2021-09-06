@@ -10,7 +10,7 @@ Heipä hei, tämä on Riikan kotisivu.
 
 Jos olet saapunut sivulle, koska harkitset Riikan rekrytoimista ja olet kiinnostunut hänen teknologiaosaamisestaan,
 
-paina <a href='/kotisivu//rekrytoijille/'>Tästä</a>.
+paina <a href='/kotisivu/rekrytoijille/'>Tästä</a>.
 
 Jos pidät kasveista,
 
