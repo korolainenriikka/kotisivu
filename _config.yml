@@ -20,7 +20,6 @@
 
 title: ⌂
 description: "riikan internet-koti"
-baseurl: "/kotisivu"
 
 # Build settings
 theme: jekyll-theme-primer

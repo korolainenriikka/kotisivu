@@ -6,15 +6,14 @@ layout: default
 tabname: kotisivu!
 ---
 
-heipä hei, tämä on riikan kotisivu.
+Heipä hei, tämä on Riikan kotisivu.
 
-olen hyvin pitkään pitänyt hyvin vähän asioiden internetissä jakamiseen tarkoitetuista alustoista, mutta kivojen asioiden jakaminen on kivaa, siksi tällainen oma nettikoti.
+Jos olet saapunut sivulle, koska harkitset Riikan rekrytoimista ja olet kiinnostunut hänen teknologiaosaamisestaan,
 
-Kivoja asioita ovat:
+paina <a href='/rekrytoijille/'>Tästä</a>.
 
-* <a href='/kotisivu/teetietokanta/'>Tee</a>
-* <a href='/kotisivu/kasvikennel/'>Kasvit</a>
+Jos pidät kasveista,
 
-Erityisen paljon pidän try-hard ostatämäkatsominua uuh-aah olen niin HUOMIOItu -meiningin välttelystä, siksi tämä nettisivu (tättäräää tärätärärättäräääää) sisältää 0kpl analytiikkaskriptejä! Tai mainoksia tai popupbannereita tai follow me on xyz tai mitään. Design-filosofiasta muutoin: <a href='https://motherfuckingwebsite.com/'>täällä</a>.
+paina <a href='/kasvikennel/'>Tästä</a>.
 
-Tervetulloo!
+Hauska tavata!
