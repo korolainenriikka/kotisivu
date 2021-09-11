@@ -28,6 +28,10 @@ Eipä siinä muuta, mennään asiaan!
 
 **JavaScript**
 
+*Rust*
+
+*C*
+
 ## Web
 
 **React**
