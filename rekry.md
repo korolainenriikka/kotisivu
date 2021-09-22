@@ -14,4 +14,4 @@ Tästä sivuston osasta löytyy seuraavanlaista sisältöä:
 
 * <a href="/kotisivu/portfolio">Portfolio</a>
 
-Sieltä siitä vain tutustumaan!
+Siitä vain tutustumaan!
