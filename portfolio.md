@@ -56,7 +56,7 @@ Tietoturvaprojekti yliopiston tietoturvakurssin puitteissa. Yksinkertainen parin
 **Teknologiat**: Django
 
 ### Reaktor assignment
-Tein kesän 2021 Reaktor-työnhakutehtävän, varastonhallinta-frontendin hitaan  legacy-API:n päälle. Haaste osoittautui hankalaksi välimuistin käytön osalta ja jäi sivuun saatuani muita töitä, mutta mení hyvästä TypeScript-harjoittelusta.
+Tein kesän 2021 Reaktor-työnhakutehtävän, varastonhallinta-frontendin hitaan  legacy-API:n päälle. Haaste osoittautui hankalaksi välimuistin käytön osalta ja jäi sivuun saatuani muita töitä, mutta meni hyvästä TypeScript-harjoittelusta.
 
 **Teknologiat**: TypeScript, React, React-Query
 
