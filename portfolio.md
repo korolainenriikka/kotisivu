@@ -60,7 +60,7 @@ Tein kesän 2021 Reaktor-työnhakutehtävän, varastonhallinta-frontendin hitaan
 
 **Teknologiat**: TypeScript, React, React-Query
 
-**GitHub**: <a href="https://github.com/korolainenriikka/cybersecuritybaseproject">https://github.com/korolainenriikka/cybersecuritybaseproject</a>
+**GitHub**: <a href="https://github.com/korolainenriikka/Reaktor_junior_assignment">https://github.com/korolainenriikka/Reaktor_junior_assignment</a>
 
 ### Othello-botti
 Kokeiltiin erään opiskeluystäväni kanssa kumpi tekee paremman pelibotin algoritmikurssin puitteissa. Koodattiin myös yhteinen pelialusta, jolla mittelö käytiin. Tekniikkana oli itselläni minimax-algoritmi alpha-beta karsinnalla, progressiivisesti syvenevällä pelipuulla sekä tanspositiotaululla maustettuna (kiinnostunut voi etsiä näistä tarkemmin internetistä, selittäminen olisi vaivalloista). Hävisin kisan kun lähdin hifistelemään algotekniikoilla, mutta hauskempaa tämä oli kuin parametrien manuaalinen näpräily. Lisäksi transpositiotaulu meni hieman yli hilseen, muut tekniikat sain toimimaan kivasti.
