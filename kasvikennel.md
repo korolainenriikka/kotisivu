@@ -10,7 +10,7 @@ Sellaisia koko elämän tason hienoja juttuja olis olla niin kuin koirankasvatta
 
 ... ja nythän niitä on! Sen vuoksi, ensialkuun, lyhyet käyttöohjeet kasvikenneliin:
 
-<img src='/kotisivu/ohjei.jpg' width='80%'>
+<img src='/kotisivu/ohjei-min.jpg' width='80%'>
 
 Elikkäs siis. Homma on sellainen, että olen kasvattelemassa parvekepuutarhaa varten taimia. Niitä on kiva istuttaa vähän enemmän kuin tarvitsee, niin jos sattuu niin, että pari vaikka vahingoittuu jossain välissä, ei ole peli ihan kokonaan menetetty. Sitten käy usein niin, että taimia on liian monta, eikä minulla toisaalta oikein ole sydäntä vaan heittää niitä mäkeen. Niin näitä ylimääräisiä taimia voi tässä tulla useampiakin kevään mittaan. Toivottavasti seuraajakunnalla on jo istutuslapiot valmiina!
 
@@ -20,11 +20,11 @@ Tässä he nyt olisivat:
 
 <strong>Keke</strong>
 
-<img src='/kotisivu/keke.jpg' width='50%'>
+<img src='/kotisivu/keke-min.jpg' width='50%'>
 
 <strong>Räikkönen</strong>
 
-<img src='/kotisivu/raikkonen.jpg' width='50%'>
+<img src='/kotisivu/raikkonen-min.jpg' width='50%'>
 
 Toisekseen, viime keväänä yksi huonekasvi, josta en lajista muuta tiedä kuin että se on vihreä ja se kasvaa kun sille antaa vettä, rupesi hirveällä vauhdilla tehtailemaan lapsuksia, joita taisi olla 23 kappaletta. Viimeiset näistä ovat ovat vielä kotia vailla. Nämä on aika yksinkertaisia ja kivoja kasveja, kasvattaa semmosen roikkuvan oksan jossa on pikkukasveja, kun tulee vähän isommaksi. Ei myöskään vaadi kummoisia, pikkasen vettä silloin tällöin.
 
@@ -32,18 +32,18 @@ Niin tämmösiä:
 
 <strong>Tää kasvi</strong>
 
-<img src='/kotisivu/taa.jpg' width='50%'>
+<img src='/kotisivu/taa-min.jpg' width='50%'>
 
 <strong>Sit tää kasvi</strong>
 
-<img src='/kotisivu/sittaa.jpg' width='50%'>
+<img src='/kotisivu/sittaa-min.jpg' width='50%'>
 
 <strong>Ja sit tää kasvi</strong>
 
-<img src='/kotisivu/jasittaa.jpg' width='50%'>
+<img src='/kotisivu/jasittaa-min.jpg' width='50%'>
 
 <strong>Sit viel tää kasvi</strong>
 
-<img src='/kotisivu/sitvieltaa.jpg' width='50%'>
+<img src='/kotisivu/sitvieltaa-min.jpg' width='50%'>
 
 
