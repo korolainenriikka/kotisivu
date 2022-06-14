@@ -16,12 +16,5 @@ So, I hope that this look into history will be useful to its reader!
 gtag("event", "view_item", {
     currency: "EUR",
     value: 244.99,
-    items: [
-        item_id: 100011,
-        item_name: "Revo Beast X",
-        brand: "Abu Garcia",
-        price: 254.99,
-        discount: 10.00
-    ]
     })
 </script>
