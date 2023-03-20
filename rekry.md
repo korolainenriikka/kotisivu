@@ -6,7 +6,7 @@ permalink: /rekrytoijille/
 
 # Ansioluettelo
 
-Huom: en juuri nyt etsi töitä, eli tämäkään ei ole enää ajan tasalla. Viimeksi päivitetty: 12/2021
+Viimeksi päivitetty: 12/2021
 
 Haluat siis mahdollisesti rekrytoida Riikan? Huippu homma, olet oikeassa paikassa.
 
