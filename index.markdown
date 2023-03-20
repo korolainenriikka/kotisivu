@@ -16,4 +16,10 @@ Jos pidät kasveista,
 
 paina <a href='/kotisivu/kasvikennel/'>Tästä</a>.
 
+Jos mielesi tekee lueskella matkakertomuksiani,
+
+paina <a href='/kotisivu/matkakirjat/'>Tästä</a>.
+
 Hauska tavata!
+
+<em>Tämä sivu ei kerää sinusta mitään tietoja. <a href='https://motherfuckingwebsite.com'>Design-filosofiasta</a>. 
