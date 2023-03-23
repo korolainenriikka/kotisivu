@@ -15,9 +15,9 @@ Toivottavasti viihdyt kirjojeni parissa!
 
 <hr />
 
-prologi 
+<span>Prologi</span> 
 
-Ehkä tässä ei olekaan mitään hätää  
+<h2>Ehkä tässä ei olekaan mitään hätää</h2>
 
 On vaikea kuvitella osuvampaa tilannetta aloittaa. InterCity 956 Kupittaalta Helsinkiin kiitää läpi länsiuusimaalaisen maiseman, pelloilla on lunta, kallioilla myös, joki on puoliksi jäässä. Aurinkopilkut vilkkuvat vaunun 5 paikan 17 ja 18 ympärillä. Kahvipissalla on käyty, ja tunnelmaa hieman heikentää sieltä täältä kantautuva niiskuttelu, jonka voin auliin avoimesti myöntää herättävän minussa lieviä ärsyyntymyksen tunteita. 
 
@@ -61,7 +61,7 @@ Seuraavaksi siis seuraa jonkinlainen, sanotaanko että suhtautumisohje käsillä
 
 Jos kuitenkin joku lukija outoon tilanteeseen jouduttuaan potee ankaraa reagointipakon aiheuttamaa tuskaa, sitä voi lievittää alla olevaan tykkäysnappiin. 
 
-<button>Tykkää <small>123 milj. tykkäystä</small></button> 
+<button>Tykkää <small>(123 milj. tykkäystä)</small></button> 
 
 (ainoa houkutus tämän kirjan painamiseksi joskus kyllä olisi, että edellä olevan nappulan viihdearvo nousisi olennaisesti paperille painettuna) 
 
@@ -91,7 +91,7 @@ Ei-liikunnallisia harrastuksia on ainakin parvekepuutarhurointi. Surkuttelen, ku
 
 Ja japanin opiskelu tietysti... Jätetään se nyt, se on oikein hauskaa, mutta osviittaa ko. asiasta antaa se, että yksi kaverini lopetti japanin opiskelun, koska totesi, että ihmisellä voi joko olla elämä, tai hän voi opiskella japania, ja hän halusi ensimmäisen. 
 
-<h3>Suomen rumin paikka</h3> 
+<em>Suomen rumin paikka</em> 
 
 Kaiken tämän kuulumistelun lomassa olen ehtinyt jo Otaniemivaihtoon asti. Ja jotta kukaan ei ottaisi nokkiinsa, Otaniemi ei ole Suomen rumin paikka. HSL-vyöhyke on, ainakin Suomen-kierrokseni perusteella. Ehdin kerätä hirveän listan asioita, joista olen muulle Suomelle kateellinen. Niitä on ainakin etäisyydet paikkoihin, Oulun pyörätiet, Kuopion hiihtomahdollisuudet, Oulun purot, Oulun pyörätiet, Kuopion hiihtomummelien hiihtomeininki, Iisalmen uimahallin uintimummujen meininki, ja Oulun pyörätiet. Tasoituksena vielä ettei Turulle tule paha mieli, niin siellä oli ihan kivat kirpparit. 
 
@@ -107,7 +107,7 @@ Jos olen ihan rehellinen, niin aina ehkä tähän vuoteen asti tämä hirvittäv
 
 Tällainen on sisälläni asustava lemmenkipeystyyppi, jos kuvitellaan sen elokuvan tyyliin, jossa oli ne ilo- suru- ja muut tyypit, jotka ohjasivat pikkutytön elämää. Se on sellainen vaaleanpunainen tyyppi, joka ei ikinä halua lähteä kotoa minnekään, ja kaikista pahimmissa tapauksissa haluaa halata joka hetki. Siis ihan tosissaan joka hetki, 100% kuluvista sekunneista. Se vasta epäkäytännöllistä on! Tämän tyypin vastapainona päässäni asuu sellainen järjen ääni -niminen tyyppi, jolla on antivaaleanpunainen leka, jolla se kumauttaa vaaleanpunaista tyyppiä päähän, ja sanoo pikkutyyppejä kontrolloivalle tyypille (minulle), suunnilleen “Halooooo! On muutakin elämää! Lopeta surkuttelu ja tee jotain mukavaa!”. Ajattelin nyt järjen ääni -puolella, että on vaaleanpunaiselle tyypille aika hyvää shokkihoitoa, että hänen on nyt pärjättävä ilman jokahetkisiä haleja hetken aikaa, niin oppii sitten olemaan kunnolla. Se on ihan tosissaan paikallaan, ei ole kiva, ettei osaa nauttia missään muualla olosta, kun pitää vaan aina olla kotona halimassa. Tällainen agendakin tässä lähtemisessä siis on. Odotettavissa toki on, ettei vaaleanpunaisen tyypin kaitsemisprosessi välttämättä ole kaikista helpoin, ja että tyypin valitus näiden tulevien kuukausien aikana todennäköisesti värittää koko kokemusta jollain tavalla. 
 
-<h3>Lisäksi tarjolla: epätyydyttäviä vastauksia</em> 
+<em>Lisäksi tarjolla: epätyydyttäviä vastauksia</em> 
 
 Jos nyt kuvitellaan sellaista EMTK-osastoa, siis ehkä mieleen tulevia kysymyksiä, niin ainakin varmaan on kiintoisaa, miksi ihmeessä haluan mennä Japaniin. Pahoittelen jo etukäteen jokaista, joka odottaa kunnollista vastausta; mitään järkevää ei ole tarjolla. Ehkä nyt saa myös murentua mielikuva minusta jonkinlaisena ultrarationaalisena kaiken järjellä valitsevana henkilönä. Tämä ei ainakaan elämänvalintojen kohdalla pidä paikkaansa, missään tapauksessa. 
 
