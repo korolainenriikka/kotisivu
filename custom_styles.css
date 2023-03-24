@@ -3,13 +3,22 @@
     text-align: justify;
 }
 
-.h3 {
+.book_subheading {
     font-style: italic;
-    font-weight: normal;
+    font-weight: normal!important;
 }
 
 .chapter_header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 2em;
+}
+
+.chapter_number {
+    text-transform: uppercase;
+}
+
+.location {
+    font-style: italic;
 }

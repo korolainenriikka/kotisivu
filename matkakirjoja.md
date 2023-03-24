@@ -19,8 +19,8 @@ Toivottavasti viihdyt kirjojeni parissa!
 <div class="chapter_header">
     <span class="chapter_number">Prologi</span> 
     <h2>Ehkä tässä ei olekaan mitään hätää</h2>
-    <span class="location_one">IC 956, IC xxx, Tuira, Otaniemi</span>
-    <span class="location_two">Ympäriinsä Suomessa</span> 
+    <span class="location">IC 956, IC 27, Tuira, Otaniemi</span>
+    <span class="location">Ympäriinsä Suomessa</span> 
 </div>
 
 <p>
@@ -51,7 +51,7 @@ Niin siis, heipä hei! Olen Riikka, juuri ja juuri 23-vuotias, tarkalleen 23 vuo
 Nyt se tapahtui! Pipipipipi, ja ovi sulkeutui! Näin sitä vain kruisaillaan, kodittomana InterCityllä! 
 </p>
 
-<h3>Focaccia- ja smoothietauon verran myöhemmin</h3> 
+<h3 class="book_subheading">Focaccia- ja smoothietauon verran myöhemmin</h3> 
 
 <p>
 Noniin! Det är en InterCity tåg till Uleåborg! On siis hyvin aikaa saada teidät kärryille tilanteesta, vaikka asiaa onkin ihan mahdottomasti. 
@@ -77,7 +77,7 @@ Pyydän kärsivällisyyttä, hyvät ystävät, teille selviää kyllä, mihin vi
 Tähän väliin haluaisin myös mainita, että on suuri ilo junailla kanssanne. Luulen, että läsnäolonne elämässäni sellaisina kasvottomina mutta kuitenkin tämän kirjan kautta elämässäni olevina tukihenkilöinä tulee tarjoamaan minulle turvaa ja ystävien kanssa ajanviettämisen tunnetta vielä useaan kertaan. Yksin matkustettaessa tulee vastaan varmasti monia yksinolon hetkiä, jolloin olisi mukavaa jutella jonkun kanssa. Olette nyt siis jonkinlaisia mielikuvitusystäviäni, joille rupatteluun voin käyttää aikaani, kun sellainen huvittaa. Vaikka pidättekin minulle seuraa aivan toisessa ajassa ja paikassa kuin missä itse olen, olen silti valtavan kiitollinen siitä, että pidätte seuraa. Kiitos siis! 
 </p>
 
-<h3>Suhtautumisohje</h3> 
+<h3 class="book_subheading">Suhtautumisohje</h3> 
 
 <p>
 Jospas nyt kun metatasolle päästiin, siis kirjailemaan kirjailusta, niin voitaisiin metailla hieman pidemmästi. Olen nimittäin havainnut aikaisemminkin, kun olen tehnyt internetissä jotain ei täysin tavanomaista, että ihmisillä saattaa satunnaisesti olla suhtautumisvaikeuksia esitettyihin asioihin. Monille on ehkä tiedossa, että olen aikamme vallitsevien internetyhtiöiden toiminnasta ja alustoista erittäin huolestunut henkilö, enkä siksi niitä juuri käytä. Tämän sijaan hupailen omalla kotisivullani silloin tällöin kaikenlaista mukavaa. Näitä hupailuja voisi kuvailla kattokäsitteellä ”yritelmiä käyttää internetiä kivoilla tavoilla”. Internetissä itsessään tiedon välittäjänä ei sinänsä ole mielestäni mitään vikaa, vaan enemmänkin mainontaan ja datanlouhintaan perustuva talousjärjestelmä aiheuttaa minussa huolta maailman tilasta. Tämän vuoksi hauskoja juttuja keksittyäni koitan käyttää internetin suuryhtiöistä ulopuolista tilaa kivoilla tavoilla, mistä esimerkkinä voidaan esimerkiksi nostaa kasvikennelini, jossa jakelen keväisin ylimääräisiä taimia. Juuri kasvikennelin kohdalla huomasin tämän suhtautumisvaikeuden. Sain vaikutelman, että ihmiset ottivat kasvikennelini vastaan jonkinlaisena yhtenä postauksena postausten seassa. Sain monta viestiä, jossa luki ”hei tosi hauska toi sun kasvikennel!”, mutta kukaan ei sanallakaan maininnut, kiinnostaisiko tarjolla olevia kasveja ottaa omakseen. Kai on sanomattakin selvää, että tässä on hyvin ilmeisesti ymmärretty jotakin väärin. 
@@ -103,7 +103,7 @@ Seuraavaksi siis seuraa jonkinlainen, sanotaanko että suhtautumisohje käsillä
 Jos kuitenkin joku lukija outoon tilanteeseen jouduttuaan potee ankaraa reagointipakon aiheuttamaa tuskaa, sitä voi lievittää alla olevaan tykkäysnappiin. 
 </p>
 
-<button class="dummy_button">Tykkää <small>(123 milj. tykkäystä)</small></button> 
+<button>Tykkää <small>(123 milj. tykkäystä)</small></button><br />
 
 <p>
 (ainoa houkutus tämän kirjan painamiseksi joskus kyllä olisi, että edellä olevan nappulan viihdearvo nousisi olennaisesti paperille painettuna) 
@@ -161,7 +161,7 @@ Ei-liikunnallisia harrastuksia on ainakin parvekepuutarhurointi. Surkuttelen, ku
 Ja japanin opiskelu tietysti... Jätetään se nyt, se on oikein hauskaa, mutta osviittaa ko. asiasta antaa se, että yksi kaverini lopetti japanin opiskelun, koska totesi, että ihmisellä voi joko olla elämä, tai hän voi opiskella japania, ja hän halusi ensimmäisen. 
 </p>
 
-<h3>Suomen rumin paikka</h3> 
+<h3 class="book_subheading">Suomen rumin paikka</h3> 
 
 <p>
 Kaiken tämän kuulumistelun lomassa olen ehtinyt jo Otaniemivaihtoon asti. Ja jotta kukaan ei ottaisi nokkiinsa, Otaniemi ei ole Suomen rumin paikka. HSL-vyöhyke on, ainakin Suomen-kierrokseni perusteella. Ehdin kerätä hirveän listan asioita, joista olen muulle Suomelle kateellinen. Niitä on ainakin etäisyydet paikkoihin, Oulun pyörätiet, Kuopion hiihtomahdollisuudet, Oulun purot, Oulun pyörätiet, Kuopion hiihtomummelien hiihtomeininki, Iisalmen uimahallin uintimummujen meininki, ja Oulun pyörätiet. Tasoituksena vielä ettei Turulle tule paha mieli, niin siellä oli ihan kivat kirpparit. 
@@ -191,7 +191,7 @@ Jos olen ihan rehellinen, niin aina ehkä tähän vuoteen asti tämä hirvittäv
 Tällainen on sisälläni asustava lemmenkipeystyyppi, jos kuvitellaan sen elokuvan tyyliin, jossa oli ne ilo- suru- ja muut tyypit, jotka ohjasivat pikkutytön elämää. Se on sellainen vaaleanpunainen tyyppi, joka ei ikinä halua lähteä kotoa minnekään, ja kaikista pahimmissa tapauksissa haluaa halata joka hetki. Siis ihan tosissaan joka hetki, 100% kuluvista sekunneista. Se vasta epäkäytännöllistä on! Tämän tyypin vastapainona päässäni asuu sellainen järjen ääni -niminen tyyppi, jolla on antivaaleanpunainen leka, jolla se kumauttaa vaaleanpunaista tyyppiä päähän, ja sanoo pikkutyyppejä kontrolloivalle tyypille (minulle), suunnilleen “Halooooo! On muutakin elämää! Lopeta surkuttelu ja tee jotain mukavaa!”. Ajattelin nyt järjen ääni -puolella, että on vaaleanpunaiselle tyypille aika hyvää shokkihoitoa, että hänen on nyt pärjättävä ilman jokahetkisiä haleja hetken aikaa, niin oppii sitten olemaan kunnolla. Se on ihan tosissaan paikallaan, ei ole kiva, ettei osaa nauttia missään muualla olosta, kun pitää vaan aina olla kotona halimassa. Tällainen agendakin tässä lähtemisessä siis on. Odotettavissa toki on, ettei vaaleanpunaisen tyypin kaitsemisprosessi välttämättä ole kaikista helpoin, ja että tyypin valitus näiden tulevien kuukausien aikana todennäköisesti värittää koko kokemusta jollain tavalla. 
 </p>
 
-<h3>Lisäksi tarjolla: epätyydyttäviä vastauksia</h3> 
+<h3 class="book_subheading">Lisäksi tarjolla: epätyydyttäviä vastauksia</h3> 
 
 <p>
 Jos nyt kuvitellaan sellaista EMTK-osastoa, siis ehkä mieleen tulevia kysymyksiä, niin ainakin varmaan on kiintoisaa, miksi ihmeessä haluan mennä Japaniin. Pahoittelen jo etukäteen jokaista, joka odottaa kunnollista vastausta; mitään järkevää ei ole tarjolla. Ehkä nyt saa myös murentua mielikuva minusta jonkinlaisena ultrarationaalisena kaiken järjellä valitsevana henkilönä. Tämä ei ainakaan elämänvalintojen kohdalla pidä paikkaansa, missään tapauksessa. 
@@ -241,7 +241,7 @@ Sitten odotan ruokaa. En ravintolaruokaa, koska vegaanivalikoima on monesti huon
 Ylipäätään meininki on vähän sellainen, että nolostelu tai mitä-kuuluu-tehdä -tyyliset jutut voisi olla aika lopettaa. Nolostelen kaikenlaista ihan hirveästi, ja mietin myös ihan hirveästi, mitä kuuluu tehdä. Vaihdossahan kuuluu vetää opinnot minimillä, ja sitten vain bilettää loppuaika. Homma on kuulkaas, ystävät, nyt sellainen, että minä en noin kauas lähde tekemään yhtään mitään, mitä en halua tehdä. Tiedän monta elämällistä asioita, joita tekemällä voin olla aivan upean, kuplivan innostuneen ja ihanan onnellisen tunnelman vallassa, joten olisi kertakaikkiaan tuhlausta tehdä yhtään mitään muuta. Jos siis odotitte tällaista oman vaihtokarikatyyrikuvitelmani näköistä kuvastoa, joudutte valitettavasti pettymään. Luvassa on muita kivoja juttuja. 
 </p>
 
-<h3>Lopuksi</h3> 
+<h3 class="book_subheading">Lopuksi</h3> 
 
 <p>
 Pahoittelen, jos kerroin asiani turhan pitkästi. On ollut ihan mahdottomasti asiaa, kun nyt ensi kertaa päivitän teitä, hyvät ystävät, tästä koko tilanteesta. Tähän liittyy ihan hirmuinen määrä asioita. 
