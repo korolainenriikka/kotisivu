@@ -16,10 +16,12 @@ Toivottavasti viihdyt kirjojeni parissa!
 <hr />
 <div class="books">
 
-<span class="chapter_number">Prologi</span> 
-<h2>Ehkä tässä ei olekaan mitään hätää</h2>
-<span class="location_one">IC 956, IC xxx, Tuira, Otaniemi</span>
-<span class="location_two">Ympäriinsä Suomessa</span> 
+<div class="chapter_header">
+    <span class="chapter_number">Prologi</span> 
+    <h2>Ehkä tässä ei olekaan mitään hätää</h2>
+    <span class="location_one">IC 956, IC xxx, Tuira, Otaniemi</span>
+    <span class="location_two">Ympäriinsä Suomessa</span> 
+</div>
 
 On vaikea kuvitella osuvampaa tilannetta aloittaa. InterCity 956 Kupittaalta Helsinkiin kiitää läpi länsiuusimaalaisen maiseman, pelloilla on lunta, kallioilla myös, joki on puoliksi jäässä. Aurinkopilkut vilkkuvat vaunun 5 paikan 17 ja 18 ympärillä. Kahvipissalla on käyty, ja tunnelmaa hieman heikentää sieltä täältä kantautuva niiskuttelu, jonka voin auliin avoimesti myöntää herättävän minussa lieviä ärsyyntymyksen tunteita. 
 
