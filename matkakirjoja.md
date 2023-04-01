@@ -13,6 +13,8 @@ Harrastus jatkuu niin kauan kuin minulla intoa riittää.
 
 Toivottavasti viihdyt kirjojeni parissa!
 
+<a href="#newest_chapter">Uusimpaan lukuun</a>
+
 <hr />
 <div class="books">
 
@@ -263,7 +265,7 @@ Siis, hyvät ystävät.
 Tervetuloa! 
 </p>
     
-<div class="chapter_header">
+<div class="chapter_header" id="newest_chapter">
     <span class="chapter_number">1. luku</span> 
     <h2>Albiinoalligaattori</h2>
     <span class="location">Cité</span>
