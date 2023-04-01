@@ -265,6 +265,8 @@ Siis, hyvät ystävät.
 Tervetuloa! 
 </p>
     
+<hr />
+    
 <div class="chapter_header" id="newest_chapter">
     <span class="chapter_number">1. luku</span> 
     <h2>Albiinoalligaattori</h2>
