@@ -298,7 +298,7 @@ Täällä asustaa isosiskoni Iso Python (nimi muutettu), eli nobelisti M. Tarpol
 Ullakkotonttujen seurassa hengailun lisäksi en tullut oikeastaan tekemään tänne yhtikäs mitään. Olen maailmanhistorian epäkiinnostunein Pariisituristi, minua ei kiinnosta nähdä yhtään mitään. Minulle ehdotettiin, että seudulla on iso puisto ja sen lähellä akvaariopaikka, jossa on albiinoalligaattori. Ihan sama mitä vaan -politiikalla viihdytin itseäni siis siellä. Ihan kiva seikkailu siinäkin, kruisailla vieraalla pyörällä milloin mitenkin merkattuja pyöräteitä pariisilaistyyliin ottamalla liikennevalot suosituksina ja totta kai ilman kypärää. Isossa (siis oikeasti tosi isossa) puistossa pääsee hyvin huomaamaan, että suuntavaistoni todella on juuri niin huono kuin ajattelinkin. Saihan siinä ihan kivan kaupunkiloman aikaan, kun pisti riippumaton keskelle pusikkoa ja nautiskeli lounasta dippailemalla <em>baguettea le houmousiin</em>. Tällaista kolmen päivän kevättä kun viettää, pitäähän sitä istuskella auringossa. Seikkailun ehdottomat huippukohdat olivat kukkapuistovierailu tietysti piikkilanka-aidan yli kiipeämällä (ei ole minun vikani, ettei kännykän kartta kerro, missä sisäänkäynti on?? Sitä paitsi laittomasti on vähän hauskempaa?), sekä pulun uskomaton kakkatemppu: yksi kakka, jonka pökäle tippuu päähän, ja se neste, joka pökäleen mukana aina tulee, pyörän satulalle. Eihän tuollaisesta voi edes ärsyyntyä, niin taidokasta tähtäystä ja tuulensuunnan kalibrointiahan tuo vaatii, kuitenkin. Kukatkin ovat oikein kauniita, niitä oli kukkapuistossa tietysti aika monta. Albiinoalligaattori toimi hyvänä maanmerkkinä pyöräparkille, sinne kun on monta viittaa, joten pyörälle löytää varmasti takaisin. Itse alligaattori taas vietteli vapaapäivää eikä vastaanottanut vieraita.
 </p>
 
-<h3>Suurmiehisyydestä</h3>
+<h3 class="book_subheading">Suurmiehisyydestä</h3>
 
 <p>
 Se turisteilusta! Sehän ei ole erityisen mielenkiintoista!
@@ -345,7 +345,7 @@ suosittelen lämpimästi <em>People Make Games</em> -nimisen kanavan paria video
 Kaikki edeltävä siis sanoakseni, että vaikka tämä suurmiehisyys toki onkin suomalaisen maalaisperunan silmin aika huvittavaa ja tarpeetonta, loppujen lopuksi se on verrattain varsin harmitonta. Saa Sartrea ihailla ja toki siitä saa tehdä polleita rintakuviakin, ja yrittää olla yhtä suuri, mikäs siinä. Onhan se nyt aika messevää maalaisperunallekin katsella, tuota suurmiestelyä. Jos haluaa muuttaa huonoja asioita paremmiksi, kannattaa keskittyä toisaalle. Ja sitä paitsi, taloustiede on tosi hyödyllistä. Esimerkiksi aika järkevää on tietää, onko vaikkapa jätteen verottamisesta hyötyä jätteen vähentämisen kannalta. Annetaan heidän siis olla ylpeitä, on siihen syytäkin. Ei tuo överi nyt niin paljoa haittaa.
 </p>
 
-<em>Loppukevennykseksi ihan tosi hyvä vitsi</em>
+<h3 class="book_subheading">Loppukevennykseksi ihan tosi hyvä vitsi</h3>
 
 <p>
 Loppukevennykseksi, hyvät ystävät, on tarjolla seuraavaa.
