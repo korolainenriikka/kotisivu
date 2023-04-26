@@ -7,17 +7,21 @@ permalink: /piilosivu/
 kuvatesti...
 
 <div class="books">
-
+<hr />
 <div class="chapter_header">
     <span class="chapter_number">Luvut 1-4</span> 
     <h2>Kuvia</h2>
 </div>
 
+<div class="book_imagecontainer">
 <img src='/kotisivu/kuvat/1_cite.jpg' width='50%'>
 <span class="kuvateksti">Cité</span>
+</div>
+
+<div class="book_imagecontainer">
 <img src='/kotisivu/kuvat/14_tokugawalapset.jpg' width='50%'>
 <span class="kuvateksti">Testiks tosi pitkä teskti
-On vaikea kuvitella osuvampaa tilannetta aloittaa. InterCity 956 Kupittaalta Helsinkiin kiitää läpi länsiuusimaalaisen maiseman, pelloilla on lunta, kallioilla myös, joki on puoliksi jäässä. Aurinkopilkut vilkkuvat vaunun 5 paikan 17 ja 18 ympärillä. Kahvipissalla on käyty, ja tunnelmaa hieman heikentää sieltä täältä kantautuva niiskuttelu, jonka voin auliin avoimesti myöntää herättävän minussa lieviä ärsyyntymyksen tunteita. </span>
+On vaikea kuvitella osuvampaa tilannetta aloittaa. InterCity 956 Kupittaalta Helsinkiin kiitää läpi länsiuusimaalaisen maiseman, pelloilla on lunta, kallioilla myös, joki on puoliksi jäässä. Aurinkopilkut vilkkuvat vaunun 5 paikan 17 ja 18 ympärillä. Kahvipissalla on käyty, ja tunnelmaa hieman heikentää sieltä täältä kantautuva niiskuttelu, jonka voin auliin avoimesti myöntää herättävän minussa lieviä ärsyyntymyksen tunteita. </span></div>
 </p>
 
 
