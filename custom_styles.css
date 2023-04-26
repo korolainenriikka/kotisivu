@@ -24,3 +24,15 @@
 .location {
     font-style: italic;
 }
+
+.book_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-height: 30em;
+}
+
+.image_text {
+    font-style: italic;
+}

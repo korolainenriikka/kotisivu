@@ -15,12 +15,12 @@ kuvatesti...
 
 <div class="book_imagecontainer">
 <img src='/kotisivu/kuvat/1_cite.jpg' width='50%'>
-<span class="kuvateksti">Cité</span>
+<span class="image_text">Cité</span>
 </div>
 
 <div class="book_imagecontainer">
 <img src='/kotisivu/kuvat/14_tokugawalapset.jpg' width='50%'>
-<span class="kuvateksti">Testiks tosi pitkä teskti
+<span class="image_text">Testiks tosi pitkä teskti
 On vaikea kuvitella osuvampaa tilannetta aloittaa. InterCity 956 Kupittaalta Helsinkiin kiitää läpi länsiuusimaalaisen maiseman, pelloilla on lunta, kallioilla myös, joki on puoliksi jäässä. Aurinkopilkut vilkkuvat vaunun 5 paikan 17 ja 18 ympärillä. Kahvipissalla on käyty, ja tunnelmaa hieman heikentää sieltä täältä kantautuva niiskuttelu, jonka voin auliin avoimesti myöntää herättävän minussa lieviä ärsyyntymyksen tunteita. </span></div>
 </p>
 
