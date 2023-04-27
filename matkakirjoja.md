@@ -847,7 +847,7 @@ Tarinamme sankarit lähtevät etelämmatkalle!
 
 <div class="book_imagecontainer">
     <img class="book_image" src='/kotisivu/kuvat/14_tokugawalapset.jpg' width='50%'>
-    <span class="image_text">Uusi ystävämme Tokugawan pustossa. Käymämme keskustelu: Raitamekkotyttö: "Woooooooou!". Minä: "Woooooooou!". Raitamekkotyttö: "Kultakala!!"</span>
+    <span class="image_text">Uusi ystävämme Tokugawan puistossa. Käymämme keskustelu: Raitamekkotyttö: "Woooooooou!". Minä: "Woooooooou!". Raitamekkotyttö: "Kultakala!!"</span>
 </div>
 
 <div class="book_imagecontainer">
