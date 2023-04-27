@@ -894,4 +894,3 @@ Tarinamme sankarit lähtevät etelämmatkalle!
     <img class="book_image" src='/kotisivu/kuvat/23_iltakavelyy.jpg' width='50%'>
     <span class="image_text">Iltakävelyllä.</span>
 </div>
-</div>
