@@ -709,7 +709,7 @@ Metromatkan jälkeen syön asuntolalla jotain vaihtelevan kunnianhimoisesti itse
 Tämmöistä! Illalla ehtii suihkuun ja nukkumaan. Joinakin päivinä olen myös ehtinyt vähän lueskella. Ostin kirjakaupasta ensimmäisen <em>Harry Potterin</em>, tietysti japaniksi, ettei kirja lopu kesken ja tarvitse heti mennä ostamaan uutta.
 </p>
 
-<h3 class="book_subheading">Sallinette, että pikaisesti kyseenalaistan maailmaa pyörittävät fundamentit ideologiat</em>
+<h3 class="book_subheading">Sallinette, että pikaisesti kyseenalaistan maailmaa pyörittävät fundamentit ideologiat</h3>
 
 <p>
 Taloustiede on tosiaan aika ihmeellistä. Ryhdyin opiskelemaan kyseistä alaa vapaavalintaisiksi opinnoiksi oikeastaan ihan huvikseni, vaikka kaikenmaailman opintokoordinaattoreille sanonkin, että tein valintani siksi, että ne ovat järkeviä ja hienoa uraa edistäviä asioita. Järkevyydestä ja hienoudesta en tiedä, mutta ainakin kyseessä on hyvin monimutkainen abstrakti konstruktio, joka pitkälti pyörittää maailman menoa. Tämän himmelin ihmettely on mielestäni ihan hyvää <em>kontenttia</em> nuoruusvuosieni kuluksi, siksi mielestäni olisi varsin hauskaa hetken aikaa ihmetellä kanssanne.
