@@ -762,7 +762,7 @@ Kaikki tämä ilahdutus onnistui viemään kaiken kyllästytyksen ja kolmen päi
 </p>
 
 <p>
-Ainakin lähitulevaisuudessa on paljon aineksia positiivisuudelle. Alkamassa on nimittäin yksi maan suurimmista juhlaviikoista, jolloin suunnilleen jokainen perhe lähtee kodeistaan matkustellakseen juhlaviikon, kultaisen viikon ajan. Minun ja sinun osalta tämä tarkoittaa, että pääsemme nautiskelemaan uusien ystäviemme seurasta vielä runsain mitoin. Olen nimittäin, ystävieni kanssa, pistäneet matkatoimiston suhisemaan.
+Ainakin lähitulevaisuudessa on paljon aineksia positiivisuudelle. Alkamassa on nimittäin yksi maan suurimmista juhlaviikoista, jolloin suunnilleen jokainen perhe lähtee kodeistaan matkustellakseen juhlaviikon, kultaisen viikon ajan. Minun ja sinun osalta tämä tarkoittaa, että pääsemme nautiskelemaan uusien ystäviemme seurasta vielä runsain mitoin. Olemme nimittäin, ystävieni kanssa, pistäneet matkatoimiston suhisemaan.
 </p>
 
 <p>
