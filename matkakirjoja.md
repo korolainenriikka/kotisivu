@@ -13,7 +13,7 @@ Harrastus jatkuu niin kauan kuin minulla intoa riittää.
 
 Toivottavasti viihdyt kirjojeni parissa!
 
-<a href="#newest_chapter">Uusimpaan lukuun (4. luku)</a>
+<a href="#newest_chapter">Uusimpaan lukuun (5. luku)</a>
 
 <a href="#images">Uusimpaan kuvaosioon (I)</a>
 
