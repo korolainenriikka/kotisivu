@@ -895,6 +895,8 @@ Tarinamme sankarit lähtevät etelämmatkalle!
     <span class="image_text">Iltakävelyllä.</span>
 </div>
 
+<hr />
+
 <div class="chapter_header" id="newest_chapter">
     <span class="chapter_number">5. luku</span>
     <h2>Teetä ja tulivuoria</h2>
