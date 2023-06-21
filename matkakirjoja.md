@@ -1194,7 +1194,7 @@ Mikä tässä on vielä ihastuttavampaa, on se, että eräitä etiopialaisen yst
 On valtava ilo olla, vaikkakin pieni, niin kuitenkin jokin esimerkki maailmasta, jonka toivoisi joskus näkevänsä. Tällaiseksi haluan tulla; auttavaksi kädeksi ja kuuntelevaksi korvaksi.
 </p>
 
-<h3 class="book_suheading">Minuuttiruusu sekä muita mainitsematta jääneitä seikkoja</h3>
+<h3 class="book_subheading">Minuuttiruusu sekä muita mainitsematta jääneitä seikkoja</h3>
 
 <p>
 Elelen yliopistoelämää, hirmu tavallista mutta tavallaan ei ollenkaan tavallista. Oleminen on saavuttanut korkeimman mahdollisen stabiiliuden tason; arkea on mennyt ja jäljellä suurin mahdollinen määrä, puolisentoista kuukautta. Sade jatkuu, ei ihan päivittäin mutta aika monta kertaa viikossa. Se on aika kiva; jaksan olla tättähäärä vain rajallisen prosenttimäärän ajastani, sen jälkeen minun on kaivauduttava kirjojeni ääreen pois maailmasta. Sateessa on samaa ihastuttavuutta kuin pimeydessä; sää ei aseta vaatimuksia tehdä hirveästi jotain siistiä ihan koko ajan. Sitä voi istahtaa vaikka koko päiväksi kirjaston kellarin kotoisasti vanhalta paperilta tuoksuvien arkistohyllyjen sekaan opiskelemaan. Pidän marraskuusta, ja samoista syistä tavallaan pidän tästäkin. Samalla saan mainiota harjoitusta kurjasta säästä ja opiskelusta tykkäämisen outouden hyväksynnän saralla.
