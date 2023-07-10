@@ -1374,7 +1374,7 @@ Tällaista, hyvät ystävät, löytyi tällä kertaa seikkailijamieleni kätköi
 
 <div class="book_imagecontainer">
     <img class="book_image" src='/kotisivu/kuvat/osioII/jigoku.jpg' width='50%'>
-    <span class="image_text">Unzen Jigoku, Unzenin helvetti.</span>
+    <span class="image_text">Unzen Jigoku.</span>
 </div>
 
 <div class="book_imagecontainer">
@@ -1384,7 +1384,7 @@ Tällaista, hyvät ystävät, löytyi tällä kertaa seikkailijamieleni kätköi
 
 <div class="book_imagecontainer">
     <img class="book_image" src='/kotisivu/kuvat/osioII/magome.jpg' width='50%'>
-    <span class="image_text">Magome,.</span>
+    <span class="image_text">Magome.</span>
 </div>
 
 <div class="book_imagecontainer">
@@ -1404,12 +1404,12 @@ Tällaista, hyvät ystävät, löytyi tällä kertaa seikkailijamieleni kätköi
 
 <div class="book_imagecontainer">
     <img class="book_image" src='/kotisivu/kuvat/osioII/atsutajingu.jpg' width='50%'>
-    <span class="image_text">Perusnormimaanantai, Atsuta jingu matsuri</span>
+    <span class="image_text">Perusmaanantai, Atsuta jingu matsuri</span>
 </div>
 
 <div class="book_imagecontainer">
     <img class="book_image" src='/kotisivu/kuvat/osioII/rouvakanamori.jpg' width='50%'>
-    <span class="image_text">Rouva Kanamorin seurassa Inuyaman linnalla.</span>
+    <span class="image_text">Rouva Kanamorin kanssa Inuyaman linnalla.</span>
 </div>
 
 <div class="book_imagecontainer">
