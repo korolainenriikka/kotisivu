@@ -1284,7 +1284,7 @@ Hauskuudet jatkuvat seuraavana päivänä. Aamulla maistelemme hedelmätarhan an
 
 <hr />
 
-<div class="chapter_header">
+<div class="chapter_header" id="newest_chapter">
     <span class="chapter_number">8. luku</span>
     <h2>Luontoilua</h2> 
     <span class="location">Nachi-Hongu, Nagoya, Ena</span>
