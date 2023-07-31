@@ -1071,7 +1071,7 @@ Suurta seikkailemista seuraa yhtä massiivinen lepääminen ja tekemättömien t
 <div class="chapter_header">
     <span class="chapter_number">6. luku</span>
     <h2>Japanilaistumisesta</h2>
-    <span class="location">Nagoya-Magome-Tsumago-Nagoya-Shirakawa go-Takayama-Nagoya</span>
+    <span class="location">Nagoya, Magome-Tsumago, Shirakawa-go, Takayama</span>
     <span class="location">Aichi, Gifu, Nagano, Japani</span>
 </div>
 
