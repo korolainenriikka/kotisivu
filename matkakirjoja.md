@@ -130,7 +130,7 @@ Diplomaattisesti voisin edeltävään vielä todeta, että ystävät hyvät, el�
 </p>
 
 <p>
-Vielä Muutama pienempi suhtautumisohje. Älä lue kirjaa, jos et halua lukea kirjaa. Tämä sivusto ei kirjaa mitenkään sitä, käytkö täällä vai et, ja minua ei millään tavalla kiinnosta, luetko vai et. Älä siis ketään miellyttääksesi lue. Suosittelen kyllä ehdottomasti matkakirjojen lukemista harrastuksena ylipäätään, mutta mitään ei tietenkään kannata tehdä vain jotakuta miellyttääkseen. Toinen ohje: ota kirja kärsivällisesti. Kaikki ei selviä hetkessä, enkä itsekään tiedä lähitulevaisuudestani juuri mitään. Kuvia on saatavilla matkakirjojen tyylin mukaisesti kirjan lopulla. Tätä varten on odotettava 4,5 kuukautta, ja luettava kirja loppuun asti (ellei huijaa ja selaa suoraan loppuun, eikä sekään oikeastaan ole huijausta, sen kun selaat, jos et ole reaaliaikalukija). 
+Vielä muutama pienempi suhtautumisohje. Älä lue kirjaa, jos et halua lukea kirjaa. Tämä sivusto ei kirjaa mitenkään sitä, käytkö täällä vai et, ja minua ei millään tavalla kiinnosta, luetko vai et. Älä siis ketään miellyttääksesi lue. Suosittelen kyllä ehdottomasti matkakirjojen lukemista harrastuksena ylipäätään, mutta mitään ei tietenkään kannata tehdä vain jotakuta miellyttääkseen. Toinen ohje: ota kirja kärsivällisesti. Kaikki ei selviä hetkessä, enkä itsekään tiedä lähitulevaisuudestani juuri mitään. Kuvia on saatavilla matkakirjojen tyylin mukaisesti kirjan lopulla. Tätä varten on odotettava 4,5 kuukautta, ja luettava kirja loppuun asti (ellei huijaa ja selaa suoraan loppuun, eikä sekään oikeastaan ole huijausta, sen kun selaat, jos et ole reaaliaikalukija). 
 </p>
 
 <p>
