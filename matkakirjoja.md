@@ -1625,7 +1625,7 @@ Vulkaanisesti aktiivisilla, Bepun kaltaisilla alueilla, lähteitä on niin paljo
 </p>
 
 <p>
-Mikäpäs siis olisikaan parempi kylpypäivän päätös, kuin lähteä metsästämään tätä luonnonihmettä. Matka jatkuu puolen tunnin ajan vuorenrinnettä ylös, koko ajan kapenevaa tietä. Välissä on kyltti mainitsemassa läheisten tulivuorten turvallisuustilanteesta, ja lähempänä lähdettä kylttejä, jotka varoittavat alueella on sattuneesta hirvittävästä rikoksesta, ja kieltävät menemästä ainakaan yksin, naisporukassa tai pimeällä. Jatkan tietysti matkaa, täytän kuitenkin varoituskriteereistä vain kaksi kolmesta. Sitä paitsi, jos jokin voi olla vielä jännittävämpää kuin salainen lähde, niin <em>kielletty salainen lähde!<em>
+Mikäpäs siis olisikaan parempi kylpypäivän päätös, kuin lähteä metsästämään tätä luonnonihmettä. Matka jatkuu puolen tunnin ajan vuorenrinnettä ylös, koko ajan kapenevaa tietä. Välissä on kyltti mainitsemassa läheisten tulivuorten turvallisuustilanteesta, ja lähempänä lähdettä kylttejä, jotka varoittavat alueella on sattuneesta hirvittävästä rikoksesta, ja kieltävät menemästä ainakaan yksin, naisporukassa tai pimeällä. Jatkan tietysti matkaa, täytän kuitenkin varoituskriteereistä vain kaksi kolmesta. Sitä paitsi, jos jokin voi olla vielä jännittävämpää kuin salainen lähde, niin <em>kielletty salainen lähde!</em>
 </p>
 
 <p>
