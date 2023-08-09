@@ -1697,7 +1697,7 @@ Hauskaa rupatella erilaisten ihmisten kanssa!
 </p>
 
 <p>
-Paluumatkalla joukkoon liittyi lisää kavereita. Jo vuorella törmäämäni Geneveläinen yläasteen biologianopettaja eksyi samalla bussi- ja junayhteydelle. Hän kertoili, että esiteinit ovat oikeasti tosi kivoja, ja kuunteli egojäbän juttuja samanlaisella huvittuneisuudella. Viimeisestä junasta juttuseuraksi löytyi vielä Tokiolainen ala-asteen musiikinopettaja, joka oli ensimmäistä kertaa Kyushulla Okinawan-loman peruunnuttua säiden vuoksi.
+Paluumatkalla joukkoon liittyi lisää kavereita. Jo vuorella törmäämäni Geneveläinen yläasteen biologianopettaja eksyi samalla bussi- ja junayhteydelle. Hän kertoili, että esiteinit ovat oikeasti tosi kivoja, ja kuunteli egojäbän juttuja samanlaisella huvittuneisuudella. Viimeisestä junasta juttuseuraksi löytyi vielä Tokiolainen ala-asteen musiikinopettaja, joka oli ensimmäistä kertaa Kyūshūlla Okinawan-loman peruunnuttua säiden vuoksi.
 </p>
 
 <p>
