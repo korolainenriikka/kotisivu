@@ -1943,6 +1943,11 @@ Pohdin jo Japaniin tullessani, että olisi kovin mukavaa saapua ja poistua tyyli
 </div>
 
 <div class="book_imagecontainer">
+    <img class="book_image" src='/kotisivu/kuvat/osioIII/ninja.jpg' width='50%'>
+    <span class="image_text">Pölyninjana Fujilla.</span>
+</div>
+
+<div class="book_imagecontainer">
     <img class="book_image" src='/kotisivu/kuvat/osioIII/kannawa.jpg' width='50%'>
     <span class="image_text">Tyhjä, ilmeisesti ilmainen kylpylä. Kannawa, Beppu.</span>
 </div>
