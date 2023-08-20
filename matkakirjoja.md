@@ -1820,7 +1820,7 @@ Monivaiheisen seikkailun jälkeen on varsin mukavaa saada itselleni oma pieni ba
 Myöskin, pahoittelut kykenemättömyydestäni vain lomailla pohtimatta maailman tilaa, jollain tavalla tämä kaikki on eräänlaista öljyajan näytelmää. Parikymmentä kilometriä leveällä ja kymmenisen kilometriä pitkällä saarella lähimmälle rannalle, jolla uiminen on mahdollista, on yli viisi kilometriä. Kun matkan voi taittaa skootterilla muutamassa minuutissa tämä ei ole tietenkään ongelma, eikä nopeasti liikkuessa edes ehdi huomata muovipuolloilla peitettyjä tienpenkkoja. Kävellen tai polkupyörällä liikkuja ehtii kuitenkin viettää liikenteessä riittävästi aikaa huomatakseen pakokaasujen ja pölynsekaisen ilman ja huumaavan melun. Myös stressipiikit huvin vuoksi tööttäilystä rikkovat säröjä lomaidylliin. Ympärillä ei näy lainkaan merkkejä siitä, että hyvin todennäköisesti tällä elämänmenolla on vain hyvin vähän tulevaisuutta: rakennustyöt maisemahuviloille ovat hyvässä vauhdissa. Olisivat kuulemma mainioita sijoituskohteita!   
 </p>
 
-<h3 class="book_subheadin">Aurinkolapsi</h3>
+<h3 class="book_subheading">Aurinkolapsi</h3>
 
 <p>
 Unenomaiset palmusaaren-päiväni alkavat noudattaa kaavaa. Herään ensimmäisten auringonsäteiden ylittäessä naapuribungalowin ja osuen oransseihin verhoihini kello 6:40. Lojun sängyssä hetken, kunnes paikan omistaja, joka joka päivä jaksaa mainita, kuinka paljon muistutan Katy Perryä, tarjoilee terassilleni aamiaiseksi banaanilettuja ja lautasellisen ananas- ja lohikäärmehedelmäviipaleita. Lukiessani päivän Helsingin Sanomia kannesta kanteen tarjoillaan kahvi, jossa on päivä päivältä hieman vähemmän kahvinpuruja pitkin kupinreunoja. Suunnilleen tunnin verran kahviteltuani aamupalalleen saapuu myös muurahaisyhdyskunta, joka mouskuttaa tiputtamani ruoanpalaset parempiin suihin.  
@@ -1928,7 +1928,7 @@ Pohdin jo Japaniin tullessani, että olisi kovin mukavaa saapua ja poistua tyyli
 </div>
 
 <div class="book_imagecontainer">
-    <img class="book_image" src='/kotisivu/kuvat/osioIII/vesiseikkailurata.jpg' width='50%'>
+    <img class="book_image" src='/kotisivu/kuvat/osioIII/vesiseikkailu.jpg' width='50%'>
     <span class="image_text">Vesiseikkailurata!</span>
 </div>
 
