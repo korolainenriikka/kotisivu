@@ -87,5 +87,3 @@ Nyt, hyvä ystäväni, on aikamme lähteä omille teillemme. Minä vaivun takais
 <p>
 Toivotan koettelemuksiisi onnea ja menestystä.
 </p>
-
-</div>
