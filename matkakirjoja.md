@@ -13,9 +13,11 @@ Harrastus jatkuu niin kauan kuin minulla intoa riittää.
 
 Toivottavasti viihdyt kirjojeni parissa!
 
-<a href="#newest_chapter">Uusimpaan lukuun (12. luku)</a>
+Olen kirjoittanut seuraavat kirjat:
 
-<a href="#newest_images">Uusimpaan kuvaosioon (III)</a>
+<ul>
+    <li><a href='/kotisivu/matkakirjat/matkakirja'>Matkakirja</a></li>
+</ul>
 
 <hr />
 <div class="books">
