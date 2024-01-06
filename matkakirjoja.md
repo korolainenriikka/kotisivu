@@ -16,7 +16,7 @@ Toivottavasti viihdyt kirjojeni parissa!
 Olen kirjoittanut seuraavat kirjat:
 
 <ul>
-    <li><a href='/kotisivu/matkakirjat/matkakirja'>Matkakirja</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja'>Matkakirja</a></li>
 </ul>
 
 <hr />
