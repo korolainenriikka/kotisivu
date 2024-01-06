@@ -5,8 +5,6 @@ title: Matkakirjat
 
 <div class="books">
 
-<hr />
-
 <div class="chapter_header">
     <span class="chapter_number">3. luku</span>
     <h2>大学</h2>

@@ -5,8 +5,6 @@ title: Matkakirjat
 
 <div class="books">
 
-<hr />
-
 <div class="chapter_header">
     <span class="chapter_number">2. luku</span>
     <h2>We provide fluffy toilet paper</h2>

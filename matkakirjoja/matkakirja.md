@@ -14,15 +14,15 @@ title: Matkakirjat
     <li><a href='/kotisivu/matkakirjoja/matkakirja/3_luku'>3. luku: 大学</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/4_luku'>4. luku: Sumua</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/I_kuvat'>Luvut 1-4: kuvia</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/5_luku'>5. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/6_luku'>6. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/7_luku'>7. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/8_luku'>8. luku:</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/5_luku'>5. luku: Teetä ja tulivuoria</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/6_luku'>6. luku: Japanilaistumisesta</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/7_luku'>7. luku: 雨が降ります</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/8_luku'>8. luku: Luontoilua</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/II_kuvat'>Luvut 5-8: kuvia</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/9_luku'>9. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/10_luku'>10. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/11_luku'>11. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/12_luku'>12. luku:</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/9_luku'>9. luku: Superturisti</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/10_luku'>10. luku: Etelään</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/11_luku'>11. luku: Khanun</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/12_luku'>12. luku: Palmusaari</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/III_kuvat'>Luvut 9-12: kuvia</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/epilogi'>Epilogi: Onnellinen maa</a></li>
 </ul>
