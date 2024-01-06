@@ -5,7 +5,6 @@ title: Matkakirjat
 
 <div class="books">
 
-<div class="chapter_header">
 <hr />
     
 <div class="chapter_header">

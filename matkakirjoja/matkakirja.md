@@ -10,9 +10,9 @@ title: Matkakirjat
 <ul>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/prologi'>Prologi: Ehkä tässä ei olekaan mitään hätää</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/1_luku'>1. luku: Albiinoalligaattori</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/2_luku'>2. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/3_luku'>3. luku:</a></li>
-    <li><a href='/kotisivu/matkakirjoja/matkakirja/4_luku'>4. luku:</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/2_luku'>2. luku: We provide fluffy toilet paper</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/3_luku'>3. luku: 大学</a></li>
+    <li><a href='/kotisivu/matkakirjoja/matkakirja/4_luku'>4. luku: Sumua</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/I_kuvat'>Luvut 1-4: kuvia</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/5_luku'>5. luku:</a></li>
     <li><a href='/kotisivu/matkakirjoja/matkakirja/6_luku'>6. luku:</a></li>
