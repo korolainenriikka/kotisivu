@@ -5,8 +5,6 @@ title: Matkakirjat
 
 <div class="books">
 
-<hr />
-
 <div class="chapter_header">
     <span class="chapter_number">Prologi</span> 
     <h2>Ehkä tässä ei olekaan mitään hätää</h2>
