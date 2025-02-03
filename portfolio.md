@@ -12,26 +12,59 @@ Toivottavasti historiakatsaus on rekrytoijalle tai muuten vaan internetissä sur
 
 Aikajärjestys on käänteisen kronologinen, ja jokaiseen liittyy GitHub-linkkinsä. Tätä sivua voi muutenkin pitää parempana pääsynä GitHubini sisältöön, kun tietää, mitä mikäkin projekti on pyrkinyt tekemään ja mitä muuta taustatietoa asiaan liittyy.
 
-## Työn alla...
+### Fossiilikatalogien OCR-digitointiprojekti
 
-### Kandidaatin tutkielma
+Projekti alkoi Helsingin luonnontieteellisen museon ja Kenian kansallismuseon yhteisesti tilaamana opiskelijaprojektina, jossa digitoimme käsin kirjoitettuja ja skannattuja fossiililöydöstaulukoita.
+Huomasin Azure Vision -API:n toimivan tässä mainiosti, joten käytimme Azurea sanojen lukemiseen sijainteineen.
+Tämän jälkeen toteutimme json-datan muunnon taulukoiksi heuristiikoilla ja klusteroinnilla, tunnistimme taulukoiden pistemerkinnät värisegmentoinnilla, jälkiprosessoimme tuloksia latinalaisten nimien sekä OpenAI:n API:lla, sekä toteutimme Flaskilla web-sovelluksen tulosten manuaaliseen tarkastukseen.
+Projekti oli hauska ja kiinnostava, joten samoilla vauhdeilla rakentelin oman OCR-työkaluni, joka lukee hammasmerkintöjä ja on ilokseni jo jatkokäytössä.
+OCR-projektista kirjoitin myös maisterin tutkielmani otsikolla "Fine-tuned Optical Character Recognition for Dental Fossil Markings" arvosanalla 5.
+Työkalun toteutin vertailemalla erilaisia CNN- ja transformer-arkkitehtuureja sekä transfer learning- menetelmiä.
 
-Ei kai se nimeään enempää selitettä tarvitsekaan. Valmistuu pian, toivottavasti, sitten voi näyttää enemmänkin.
+**GitHub (OCR-työkalu)**: <a href="https://github.com/korolainenriikka/fine-tuned-ocr-for-dental-markings">https://github.com/korolainenriikka/fine-tuned-ocr-for-dental-markings</a>
+
+**Teknologiat**: Python, PyTorch, Azure
+
+**WSJ-artikkeli aiheen taustoista**: <a href="https://www.wsj.com/world/africa/nairobi-national-museum-natural-history-leakey-832f0262">https://www.wsj.com/world/africa/nairobi-national-museum-natural-history-leakey-832f0262</a>
+
+### Toimintoja Shuriken-toiminnanohjausjärjestelmään
+
+Yhden opintojen aikaisen välivuoden sekä maisterintutkinnon aikaisten kesien ajan, vuosina 2022-2025 toimin full-stack kehittäjänä kehittämässä
+verkkokaupan toiminnanohjausjärjestelmää. Pienemmässä yrityksessä pääsin ilokseni heti isoihin saappaisiin, ja yksin vastuuseen toteuttamaan mm. 
+seuraavanlaisia toimintoja: Pricer-hintanäyttöjen integraation, Google Analyticsin sekä Facebok Conversion API:n tukemisen, releiden kytkemistä myöten
+noutoautomaatin toteutuksen hyllytystyökaluineen, sekä monenlaisia korjauksia legacy-koodiin.
+
+Muutamat toteuttamani toiminnot näkyvät asiakaspuolelle asti:
+
+Ajanvarauskalenteri: <a href="https://frakkipalvelunam.fi/calendar.php">https://frakkipalvelunam.fi/calendar.php</a>
+
+Mittatilaustuotteiden tuki: <a href="https://madeinfinlandshop.fi/p37255/tylli-lokki-matto">https://madeinfinlandshop.fi/p37255/tylli-lokki-matto</a>
+
+**Teknologiat**: PHP, TypeScript, PHPUnit, Codeception
+
+### Housing AI
+
+Datatieteen johdatuskurssille toteutettu miniprojekti. Ennustimme asuntojen kysynnän muutoksia 
+suuralueittain Helsingissä ja toteutimme pienen web-sovelluksen tulosten visualisointiin.
+
+**Github**: <a href="https://github.com/korolainenriikka/housing-AI">https://github.com/korolainenriikka/housing-AI</a>
+
+**Teknologiat**: Python, Pandas, StreamLit
 
 ### Kotisivu
-Eli sivu, jota lueskelet. Ensisijainen idea taisi lähteä siitä, miten siistiä olisi olla sellainen tyyppi, jolla on omat kotisivut.  Noin muuten, työkontekstia ajatellen, tämä mahdollistaa hirmuisen kätevästi osaamiseni ja tekemiseni esittelyn mielestäni järkevimmällä tavalla kaikille kiinnostuneille yhdestä paikasta käsin. Ei-työmielessä, kotisivu mahdollistaa myös kaikenlaisten hassujen haaveiden, kuten vaikkapa kasvikennelin omistamisen, tai matkakirjailujen, helpon toteuttamisen. Sekin on kätevää, ja erityisen mukavaa. Ja siistiä.
+
+Eli sivu, jota lueskelet. Ensisijainen idea taisi lähteä siitä, miten siistiä olisi olla sellainen tyyppi, jolla on omat kotisivut.  Noin muuten, työkontekstia ajatellen, tämä mahdollistaa hirmuisen kätevästi osaamiseni ja tekemiseni esittelyn mielestäni järkevimmällä tavalla kaikille kiinnostuneille yhdestä paikasta käsin. Ei-työmielessä, kotisivu mahdollistaa myös kaikenlaisten hassujen haaveiden, kuten vaikkapa kasvikennelin omistamisen, tai matkakirjailujen, helpon toteuttamisen. Sekin on kätevää, ja erityisen mukavaa.
 
 **GitHub**: <a href="https://github.com/korolainenriikka/kotisivu">https://github.com/korolainenriikka/kotisivu</a>
 
 **Teknologia**: Jekyll
 
-### C-hupailuja
-Olisi varsin siistiä osata C:tä vähän paremmin, ja vähän näin *placeholderina* olisi aika hauskaa keksiä jokin C-projekti ja näpytellä sitä. Mitään konkreettista tämän eteen ei ole vielä tapahtunut, lukuun ottamatta *The C programming language*:n eBay-tilausta.
+### MLOps-skriptejä VesselAI-projektiin
 
-## Tehtyjä juttuja
-
-### MLOps-hommat
-Tutkimusavustajana kesällä 2021 koin paitsi ensikosketukseni koneoppimiseen, tein myös jonkin verran IaC- sekä MLOps-juttuja. Linkkinä on monta repositoriota, osassa on koneoppimisrepositorioita joita käytin erilaisten automatisoitujen *pipelinejen* kokeiluun, yhdessä on konfiguraatiotiedostoja noiden systeemien pyörittämiseen OpenStack-pilvipalvelussa, ja yhdessä on MLOps-konfiguraatioita työkaverin tekemän datansiivouskoodin päällä.
+Tutkimusavustajana kesällä 2021 koin paitsi ensikosketukseni koneoppimiseen, tein myös jonkin verran IaC- sekä MLOps-juttuja merenkulun 
+automaatiota edistävään EU:n laajuiseen <a href="vessel-ai.eu">VesselAI</a>-projektiin. Linkkinä on monta repositoriota, osassa on koneoppimisrepositorioita joita käytin erilaisten automatisoitujen *pipelinejen* kokeiluun, yhdessä on konfiguraatiotiedostoja noiden systeemien pyörittämiseen OpenStack-pilvipalvelussa, ja yhdessä on MLOps-konfiguraatioita työkaverin tekemän datansiivouskoodin päällä.
+Tein projektiin myös kandidaatin tutkielmani otsikolla "Enabling efficient model maintenance in a
+big data system: a case study" arvosanalla 5 koneoppimispalveluiden monitoroinnista ja ylläpidosta projektin kontekstissa.
 
 **GitHub**:
 * <a href="https://github.com/korolainenriikka/multistep_word_classification">https://github.com/korolainenriikka/multistep_word_classification</a>
@@ -89,4 +122,4 @@ Eli ensimmäinen katsaus Pythonin maailmaan. Koulun tietokantasovelluksen kurssi
 
 **Teknologiat**: Python, Flask
 
-**GitHub**: <a href="https://github.com/korolainenriikka/cybersecuritybaseproject">https://github.com/korolainenriikka/cybersecuritybaseproject</a>
+**GitHub**: <a href="https://github.com/korolainenriikka/WorkoutLogger-tsoha">https://github.com/korolainenriikka/WorkoutLogger-tsoha</a>
