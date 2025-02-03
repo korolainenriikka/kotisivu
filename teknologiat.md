@@ -22,11 +22,15 @@ Eipä siinä muuta, mennään asiaan!
 
 ## Ohjelmointikielet
 
+**PHP**
+
 **Python**
 
 **Java**
 
 **JavaScript**
+
+C++
 
 *Rust*
 
@@ -40,7 +44,11 @@ Eipä siinä muuta, mennään asiaan!
 
 **Next.js**
 
+Nginx
+
 Flask
+
+StreamLit
 
 Django
 
@@ -54,19 +62,21 @@ React Native
 
 Jekyll
 
-HTML5
+HTML
 
 ## Tyylit
 
 Styled Components
 
-CSS3
+CSS
 
 Adobe Indesign
 
 ## Tietokannat
 
 **SQL**
+
+**MariaDB**
 
 PostgreSQL
 
@@ -80,17 +90,29 @@ Numpy
 
 Pandas
 
+PyTorch
+
+TorchVision
+
 Scikit-learn
 
-*Matplotlib*
+OpenCV
 
-*Jupyter notebook*
+Matplotlib
 
-## DevOps, versionhallinta, ym.
+Jupyter notebook
+
+*TensorFlow*
+
+*Keras*
+
+## DevOps / MLOps
 
 **Git**
 
 Linux
+
+Mlflow
 
 Docker
 
@@ -98,18 +120,48 @@ Ansible
 
 Github Actions
 
+*Deepchecks*
+
+*Kubernetes*
+
+*Kubeflow Pipelines*
+
+*Great Expectations*
+
+*Optuna*
+
+*Prometheus*
+
+*Evidently*
+
+## Testaaminen
+
+**PHPUnit**
+
+**Codeception**
+
+Jest
+
+Cypress
+
 Robot Framework
 
 ## Pilvipalvelut
 
-Heroku
+Azure
 
 OpenStack
+
+Heroku
 
 ## Tieteelliset
 
 **Latex**
 
-*R*
+R
 
 *Matlab*
+
+## Muut
+
+**Vim**
