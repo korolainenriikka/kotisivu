@@ -31,7 +31,7 @@ Työkalun toteutin vertailemalla erilaisia CNN- ja transformer-arkkitehtuureja s
 
 Yhden opintojen aikaisen välivuoden sekä maisterintutkinnon aikaisten kesien ajan, vuosina 2022-2025 toimin full-stack kehittäjänä kehittämässä
 verkkokaupan toiminnanohjausjärjestelmää. Pienemmässä yrityksessä pääsin ilokseni heti isoihin saappaisiin, ja yksin vastuuseen toteuttamaan mm. 
-seuraavanlaisia toimintoja: Pricer-hintanäyttöjen integraation, Google Analyticsin sekä Facebok Conversion API:n tukemisen, releiden kytkemistä myöten
+seuraavanlaisia toimintoja: Pricer-hintanäyttöjen integraation, Google Analyticsin sekä Facebook Conversion API:n tukemisen, releiden kytkemistä myöten
 noutoautomaatin toteutuksen hyllytystyökaluineen, sekä monenlaisia korjauksia legacy-koodiin.
 
 Muutamat toteuttamani toiminnot näkyvät asiakaspuolelle asti:
