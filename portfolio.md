@@ -12,6 +12,8 @@ Toivottavasti historiakatsaus on rekrytoijalle tai muuten vaan internetissä sur
 
 Aikajärjestys on käänteisen kronologinen, ja jokaiseen liittyy GitHub-linkkinsä. Tätä sivua voi muutenkin pitää parempana pääsynä GitHubini sisältöön, kun tietää, mitä mikäkin projekti on pyrkinyt tekemään ja mitä muuta taustatietoa asiaan liittyy.
 
+<hr />
+
 ### Fossiilikatalogien OCR-digitointiprojekti
 
 Projekti alkoi Helsingin luonnontieteellisen museon ja Kenian kansallismuseon yhteisesti tilaamana opiskelijaprojektina, jossa digitoimme käsin kirjoitettuja ja skannattuja fossiililöydöstaulukoita.
