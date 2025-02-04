@@ -142,7 +142,7 @@ Ensimmäinen versio oli JavaFX-sovellus, joka teki kaikenmoista hauskaa, kuten s
 
 ### Workout Logger
 
-Eli ensimmäinen katsaus Pythonin maailmaan. Koulun tietokantasovelluksen kurssilla tehty projekti oli sekä ensimmäinen python-sovellus, että ensimmäinen webbisovellus. Projektin tekeminen tuntui kaiken uutuuden vuoksi vallan sekavalta eikä lopputulos mitenkään häikäissyt ominaisuuksiltaan, mutta oikein hyvää harjoittelua oli tämäkin.
+Eli ensimmäinen katsaus Pythonin maailmaan. Koulun tietokantasovelluksen kurssilla tehty projekti oli sekä ensimmäinen Python-sovellus, että ensimmäinen webbisovellus. Projektin tekeminen tuntui kaiken uutuuden vuoksi vallan sekavalta eikä lopputulos mitenkään häikäissyt ominaisuuksiltaan, mutta oikein hyvää harjoittelua oli tämäkin.
 
 **Teknologiat**: Python, Flask
 
