@@ -74,7 +74,7 @@ Jekyll
 
 Styled Components
 
-Adobe Indesign
+Adobe InDesign
 
 ## Tietokannat
 
