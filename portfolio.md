@@ -72,7 +72,7 @@ Eli sivu, jota lueskelet. Ensisijainen idea taisi lähteä siitä, että olisi s
 ### MLOps-skriptejä VesselAI-projektiin
 
 Tutkimusavustajana kesällä 2021 koin paitsi ensikosketukseni koneoppimiseen, tein myös jonkin verran IaC- sekä MLOps-juttuja merenkulun 
-automaatiota edistävään EU:n laajuiseen <a href="vessel-ai.eu">VesselAI</a>-projektiin. Linkkinä on monta repositoriota, osassa on koneoppimisrepositorioita joita käytin erilaisten automatisoitujen pipelinejen kokeiluun, yhdessä on konfiguraatiotiedostoja noiden systeemien pyörittämiseen OpenStack-pilvipalvelussa, ja yhdessä on MLOps-konfiguraatioita työkaverin tekemän datansiivouskoodin päällä.
+automaatiota edistävään EU:n laajuiseen <a href="https://vessel-ai.eu">VesselAI</a>-projektiin. Linkkinä on monta repositoriota, osassa on koneoppimisrepositorioita joita käytin erilaisten automatisoitujen pipelinejen kokeiluun, yhdessä on konfiguraatiotiedostoja noiden systeemien pyörittämiseen OpenStack-pilvipalvelussa, ja yhdessä on MLOps-konfiguraatioita työkaverin tekemän datansiivouskoodin päällä.
 Tein projektiin myös kandidaatin tutkielmani otsikolla "Enabling efficient model maintenance in a
 big data system: a case study" arvosanalla 5 koneoppimispalveluiden monitoroinnista ja ylläpidosta projektin kontekstissa.
 
