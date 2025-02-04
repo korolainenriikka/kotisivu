@@ -17,6 +17,7 @@ Aikajärjestys on käänteisen kronologinen, ja jokaiseen liittyy GitHub-linkkin
 Projekti alkoi Helsingin luonnontieteellisen museon ja Kenian kansallismuseon yhteisesti tilaamana opiskelijaprojektina, jossa digitoimme käsin kirjoitettuja ja skannattuja fossiililöydöstaulukoita.
 Huomasin Azure Vision -API:n toimivan tässä mainiosti, joten käytimme Azurea sanojen lukemiseen sijainteineen.
 Tämän jälkeen toteutimme json-datan muunnon taulukoiksi heuristiikoilla ja klusteroinnilla, tunnistimme taulukoiden pistemerkinnät värisegmentoinnilla, jälkiprosessoimme tuloksia latinalaisten nimien sekä OpenAI:n API:lla, sekä toteutimme Flaskilla web-sovelluksen tulosten manuaaliseen tarkastukseen.
+Projekti oli salassapitosopimuksen alainen, joten koodia emme valitettavasti voineet julkaista.
 Projekti oli hauska ja kiinnostava, joten samoilla vauhdeilla rakentelin oman OCR-työkaluni, joka lukee hammasmerkintöjä ja on ilokseni jo jatkokäytössä.
 OCR-projektista kirjoitin myös maisterin tutkielmani otsikolla "Fine-tuned Optical Character Recognition for Dental Fossil Markings" arvosanalla 5.
 Työkalun toteutin vertailemalla erilaisia CNN- ja transformer-arkkitehtuureja sekä transfer learning- menetelmiä.
