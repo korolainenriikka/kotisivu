@@ -21,7 +21,9 @@ Projekti oli hauska ja kiinnostava, joten samoilla vauhdeilla rakentelin oman OC
 OCR-projektista kirjoitin myös maisterin tutkielmani otsikolla "Fine-tuned Optical Character Recognition for Dental Fossil Markings" arvosanalla 5.
 Työkalun toteutin vertailemalla erilaisia CNN- ja transformer-arkkitehtuureja sekä transfer learning- menetelmiä.
 
-**GitHub (OCR-työkalu)**: <a href="https://github.com/korolainenriikka/fine-tuned-ocr-for-dental-markings">https://github.com/korolainenriikka/fine-tuned-ocr-for-dental-markings</a>
+**GitHub**:
+* <a href="https://github.com/korolainenriikka/fine-tuned-ocr-for-dental-markings">https://github.com/korolainenriikka/fine-tuned-ocr-for-dental-markings</a>
+* <a href="https://github.com/korolainenriikka/theses/blob/master/Korolainen_Riikka_Mastersthesis_2024.pdf">https://github.com/korolainenriikka/theses/blob/master/Korolainen_Riikka_Mastersthesis_2024.pdf</a>
 
 **Teknologiat**: Python, PyTorch, Azure
 
@@ -79,6 +81,7 @@ big data system: a case study" arvosanalla 5 koneoppimispalveluiden monitoroinni
 * <a href="https://github.com/korolainenriikka/mlflow_test">https://github.com/korolainenriikka/mlflow_test</a>
 * <a href="https://github.com/korolainenriikka/mlflow_on_openstack_automated">https://github.com/korolainenriikka/mlflow_on_openstack_automated</a>
 * <a href="https://github.com/korolainenriikka/cleaning_scripts">https://github.com/korolainenriikka/cleaning_scripts</a>
+* <a href="https://github.com/korolainenriikka/theses/blob/master/Korolainen%20Riikka%20Enabling%20efficient%20model%20maintenance%20in%20a%20big%20data%20system%3A%20a%20case%20study.pdf.pdf">https://github.com/korolainenriikka/theses/blob/master/KorolainenRiikkaEnabling_efficient_model_maintenance_in_a_big_data_system_A_case_study.pdf</a>
 
 **Teknologiat**: Python, Numpy, Pandas, MLflow, Ansible, OpenStack
 
