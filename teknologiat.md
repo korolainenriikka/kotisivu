@@ -66,7 +66,7 @@ React Native
 
 Jekyll
 
-StreamLit
+*StreamLit*
 
 ## Tyylit
 
