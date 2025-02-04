@@ -54,6 +54,8 @@ Django
 
 Redux
 
+Sequelize
+
 GraphQL
 
 React Native

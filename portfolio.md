@@ -27,6 +27,8 @@ Työkalun toteutin vertailemalla erilaisia CNN- ja transformer-arkkitehtuureja s
 
 **WSJ-artikkeli aiheen taustoista**: <a href="https://www.wsj.com/world/africa/nairobi-national-museum-natural-history-leakey-832f0262">https://www.wsj.com/world/africa/nairobi-national-museum-natural-history-leakey-832f0262</a>
 
+<hr/>
+
 ### Toimintoja Shuriken-toiminnanohjausjärjestelmään
 
 Yhden opintojen aikaisen välivuoden sekä maisterintutkinnon aikaisten kesien ajan, vuosina 2022-2025 toimin full-stack kehittäjänä kehittämässä
@@ -42,6 +44,8 @@ Mittatilaustuotteiden tuki: <a href="https://madeinfinlandshop.fi/p37255/tylli-l
 
 **Teknologiat**: PHP, TypeScript, PHPUnit, Codeception
 
+<hr/>
+
 ### Housing AI
 
 Datatieteen johdatuskurssille toteutettu miniprojekti. Ennustimme asuntojen kysynnän muutoksia 
@@ -51,18 +55,22 @@ suuralueittain Helsingissä ja toteutimme pienen web-sovelluksen tulosten visual
 
 **Teknologiat**: Python, Pandas, StreamLit
 
+<hr/>
+
 ### Kotisivu
 
-Eli sivu, jota lueskelet. Ensisijainen idea taisi lähteä siitä, miten siistiä olisi olla sellainen tyyppi, jolla on omat kotisivut.  Noin muuten, työkontekstia ajatellen, tämä mahdollistaa hirmuisen kätevästi osaamiseni ja tekemiseni esittelyn mielestäni järkevimmällä tavalla kaikille kiinnostuneille yhdestä paikasta käsin. Ei-työmielessä, kotisivu mahdollistaa myös kaikenlaisten hassujen haaveiden, kuten vaikkapa kasvikennelin omistamisen, tai matkakirjailujen, helpon toteuttamisen. Sekin on kätevää, ja erityisen mukavaa.
+Eli sivu, jota lueskelet. Ensisijainen idea taisi lähteä siitä, että olisi siistiä olla tyyppi, jolla on omat kotisivut. Noin muuten, työkontekstia ajatellen, tämä mahdollistaa hirmuisen kätevästi osaamiseni ja tekemiseni esittelyn mielestäni järkevimmällä tavalla kaikille kiinnostuneille yhdestä paikasta käsin. Ei-työmielessä, kotisivu mahdollistaa myös kaikenlaisten hassujen haaveiden, kuten vaikkapa kasvikennelin omistamisen, tai matkakirjailujen, helpon toteuttamisen. Sekin on kätevää, ja erityisen mukavaa.
 
 **GitHub**: <a href="https://github.com/korolainenriikka/kotisivu">https://github.com/korolainenriikka/kotisivu</a>
 
 **Teknologia**: Jekyll
 
+<hr/>
+
 ### MLOps-skriptejä VesselAI-projektiin
 
 Tutkimusavustajana kesällä 2021 koin paitsi ensikosketukseni koneoppimiseen, tein myös jonkin verran IaC- sekä MLOps-juttuja merenkulun 
-automaatiota edistävään EU:n laajuiseen <a href="vessel-ai.eu">VesselAI</a>-projektiin. Linkkinä on monta repositoriota, osassa on koneoppimisrepositorioita joita käytin erilaisten automatisoitujen *pipelinejen* kokeiluun, yhdessä on konfiguraatiotiedostoja noiden systeemien pyörittämiseen OpenStack-pilvipalvelussa, ja yhdessä on MLOps-konfiguraatioita työkaverin tekemän datansiivouskoodin päällä.
+automaatiota edistävään EU:n laajuiseen <a href="vessel-ai.eu">VesselAI</a>-projektiin. Linkkinä on monta repositoriota, osassa on koneoppimisrepositorioita joita käytin erilaisten automatisoitujen pipelinejen kokeiluun, yhdessä on konfiguraatiotiedostoja noiden systeemien pyörittämiseen OpenStack-pilvipalvelussa, ja yhdessä on MLOps-konfiguraatioita työkaverin tekemän datansiivouskoodin päällä.
 Tein projektiin myös kandidaatin tutkielmani otsikolla "Enabling efficient model maintenance in a
 big data system: a case study" arvosanalla 5 koneoppimispalveluiden monitoroinnista ja ylläpidosta projektin kontekstissa.
 
@@ -74,12 +82,16 @@ big data system: a case study" arvosanalla 5 koneoppimispalveluiden monitoroinni
 
 **Teknologiat**: Python, Numpy, Pandas, MLflow, Ansible, OpenStack
 
+<hr/>
+
 ### DevOps-kyselytyökalu
 Yliopiston ohjelmistotuotantoprojektin puitteissa tuotettu projekti, asiakasyrityksen opiskelijatyönä tilaamana, jonka tarkoituksena oli mahdollistaa uusien asiakkaiden löytäminen tarjoamalla mahdollisuus DevOps-kykyjen kartoittamiseen. Kahdeksan hengen ryhmässä pääsi paitsi tekemään ilahduttavan paljon yhteistyötä, myös oppimaan ryhmätyöskentelyä.
 
 **GitHub**: <a href="https://github.com/Devops-ohtuprojekti/DevOpsCSAOS">https://github.com/Devops-ohtuprojekti/DevOpsCSAOS</a>
 
-**Teknologiat**: Next.js, Node.js, PostgreSQL, Robot Framework, styled components, GitHub Actions, Docker, Sequelize, Heroku
+**Teknologiat**: Next.js, Node.js, PostgreSQL, Robot Framework, Styled components, GitHub Actions, Docker, Sequelize, Heroku
+
+<hr/>
 
 ### Teetietokanta
 Tietoturvaprojekti yliopiston tietoturvakurssin puitteissa. Yksinkertainen parin sivun web-sovellus, joka sisältää muutaman tietoturva-aukon. 
@@ -88,6 +100,8 @@ Tietoturvaprojekti yliopiston tietoturvakurssin puitteissa. Yksinkertainen parin
 
 **Teknologiat**: Django
 
+<hr/>
+
 ### Reaktor assignment
 Tein kesän 2021 Reaktor-työnhakutehtävän, varastonhallinta-frontendin hitaan  legacy-API:n päälle. Haaste osoittautui hankalaksi välimuistin käytön osalta ja jäi sivuun saatuani muita töitä, mutta meni hyvästä TypeScript-harjoittelusta.
 
@@ -95,14 +109,18 @@ Tein kesän 2021 Reaktor-työnhakutehtävän, varastonhallinta-frontendin hitaan
 
 **GitHub**: <a href="https://github.com/korolainenriikka/Reaktor_junior_assignment">https://github.com/korolainenriikka/Reaktor_junior_assignment</a>
 
+<hr/>
+
 ### Othello-botti
-Kokeiltiin erään opiskeluystäväni kanssa kumpi tekee paremman pelibotin algoritmikurssin puitteissa. Koodattiin myös yhteinen pelialusta, jolla mittelö käytiin. Tekniikkana oli itselläni minimax-algoritmi alpha-beta karsinnalla, progressiivisesti syvenevällä pelipuulla sekä tanspositiotaululla maustettuna (kiinnostunut voi etsiä näistä tarkemmin internetistä, selittäminen olisi vaivalloista). Hävisin kisan kun lähdin hifistelemään algotekniikoilla, mutta hauskempaa tämä oli kuin parametrien manuaalinen näpräily. Lisäksi transpositiotaulu meni hieman yli hilseen, muut tekniikat sain toimimaan kivasti.
+Kokeiltiin erään opiskeluystäväni kanssa kumpi tekee paremman pelibotin algoritmikurssin puitteissa. Koodattiin myös yhteinen pelialusta, jolla mittelö käytiin. Tekniikkana oli itselläni minimax-algoritmi alpha-beta karsinnalla, progressiivisesti syvenevällä pelipuulla sekä transpositiotaululla maustettuna (kiinnostunut voi etsiä näistä tarkemmin internetistä, selittäminen olisi vaivalloista). Hävisin kisan kun lähdin hifistelemään algotekniikoilla, mutta hauskempaa tämä oli kuin parametrien manuaalinen näpräily. Lisäksi transpositiotaulu meni hieman yli hilseen, muut tekniikat sain toimimaan kivasti.
 
 **Teknologiat**: Java, hurjat algoritmikikat
 
 **GitHub**: 
 * Botti: <a href="https://github.com/korolainenriikka/Jani">https://github.com/korolainenriikka/Jani</a>
 * Pelialusta: <a href="https://github.com/vuolen/othello-core">https://github.com/vuolen/othello-core</a>
+
+<hr/>
 
 ### Bobit 1 & 2
 Korkealentoisen, nopean ja monesta kiinnostuneen kaikkialla päsmäröivän ajattelun kääntöpuolena on  se, että arkielämän triviaalit asiat pääsevät välillä unohtumaan. Tällä on silloin tällöin epäonnisia seurauksia, kuten välikokeen ajan unohtaminen. Päättelin mahdollisesti voivani ratkaista ongelman tekemällä itselleni assistentin. Siinähän olisi *suurmiehen meininkiä*, jos omistaisi itse itselleen koodaaman assistentin.
@@ -115,6 +133,8 @@ Ensimmäinen versio oli JavaFX-sovellus, joka teki kaikenmoista hauskaa, kuten s
 
 * Bob the personal assistant: <a href="https://github.com/korolainenriikka/BobThePersonalAssistant-ohte2020">https://github.com/korolainenriikka/BobThePersonalAssistant-ohte2020</a>
 * Bob2: <a href="https://github.com/korolainenriikka/Bob2">https://github.com/korolainenriikka/Bob2</a>
+
+<hr/>
 
 ### Workout Logger
 
