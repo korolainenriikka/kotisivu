@@ -44,7 +44,7 @@ C++
 
 **Node.js**
 
-**Next.js**
+Next.js
 
 Nginx
 
