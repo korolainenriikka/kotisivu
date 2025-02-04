@@ -34,7 +34,7 @@ Työkalun toteutin vertailemalla erilaisia CNN- ja transformer-arkkitehtuureja s
 
 ### Toimintoja Shuriken-toiminnanohjausjärjestelmään
 
-Yhden opintojen aikaisen välivuoden sekä maisterintutkinnon aikaisten kesien ajan, vuosina 2022-2025 toimin full-stack kehittäjänä kehittämässä
+Yhden opintojen aikaisen välivuoden sekä maisterintutkinnon aikaisten kesien ajan, vuosina 2022-2025, toimin full-stack kehittäjänä kehittämässä
 verkkokaupan toiminnanohjausjärjestelmää. Pienemmässä yrityksessä pääsin ilokseni heti isoihin saappaisiin, ja yksin vastuuseen toteuttamaan mm. 
 seuraavanlaisia toimintoja: Pricer-hintanäyttöjen integraation, Google Analyticsin sekä Facebook Conversion API:n tukemisen, releiden kytkemistä myöten
 noutoautomaatin toteutuksen hyllytystyökaluineen, sekä monenlaisia korjauksia legacy-koodiin.
