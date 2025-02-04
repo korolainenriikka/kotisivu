@@ -48,6 +48,10 @@ C++
 
 Nginx
 
+JQuery
+
+Ajax
+
 Flask
 
 Django
