@@ -6,8 +6,6 @@ permalink: /rekrytoijille/
 
 # Ansioluettelo
 
-Viimeksi päivitetty: 12/2021
-
 Haluat siis mahdollisesti rekrytoida Riikan? Huippu homma, olet oikeassa paikassa.
 
 Tästä sivuston osasta löytyy seuraavanlaista sisältöä:
