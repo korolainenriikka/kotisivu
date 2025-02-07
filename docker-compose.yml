@@ -1,0 +1,5 @@
+services:
+  kotisivu:
+    image: kotisivu
+    ports:
+      - 4000:4000
