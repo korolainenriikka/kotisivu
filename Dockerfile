@@ -1,6 +1,4 @@
-FROM ubuntu:22.04
-
-EXPOSE 4000
+FROM ubuntu:22.04 AS build-stage
 
 WORKDIR /usr/src/app
 
@@ -18,4 +16,7 @@ RUN gem install jekyll bundler
 
 RUN bundle install
 
-CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--host", "0.0.0.0"]
+#CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload"]
+FROM nginx:1.19-alpine
+
+COPY --from=build-stage /usr/src/app/_site/ /usr/share/nginx/html
