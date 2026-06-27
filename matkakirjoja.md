@@ -17,4 +17,5 @@ Olen kirjoittanut seuraavat kirjat:
 
 <ul>
     <li><a href='/kotisivu/matkakirjoja/matkakirja'>Matkakirja</a></li>
+    <li><a href='/kotisivu/matkakirjoja/konsulttikirja'>Konsulttina luokses kapseloin</a></li>
 </ul>

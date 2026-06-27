@@ -21,6 +21,16 @@
     text-transform: uppercase;
 }
 
+.chapter_quote {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 3em;
+}
+
+.chapter_quote p {
+    font-style: italic;
+}
+
 .location {
     font-style: italic;
 }
@@ -28,6 +38,13 @@
 .book_image {
     display: block;
     margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-height: 30em;
+}
+
+.book_cover_image {
+    display: block;
     margin-right: auto;
     width: auto;
     max-height: 30em;
