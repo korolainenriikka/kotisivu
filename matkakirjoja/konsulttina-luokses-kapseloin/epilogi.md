@@ -20,10 +20,6 @@ Makuuvaunun romanttisuus johtuu sen äärimmäisestä eristyneisyydestä, siinä
 </div>
 
 <p>
-Hyvää iltaa, hyvät ystävät. On suuri ilo palata seuraanne.
-</p>
-
-<p>
 Hyvää iltaa, hyvät ystävät. Olemme palanneet alakerran sohvannurkkaan eräässä lähiössä Euroopan kaakkoisnurkassa. Teetä on jälleen hautumassa, ja onnekkaan sattumuksen ansiosta joulumarkkinoilta hankkimani teessä on vieno appelsiini-Jägermeisterin aromi. Taustalla hurisee tämän syksyn uusin hienous, arkkupakastin. Talvimyrskyn jälkeen on saapunut ensimmäinen kunnon lumisade. Elämä on alkanut taas juoksemaan eteenpäin, niin kuin kaikkien seikkailujen jälkeen aina tapahtuu. Onneksi on kuitenkin jotain pimeiden iltojen tunteja, kun sopiva hetki aukeaa asettautua kirjoitusnurkkaukseen pohtimaan, mitä onkaan tapahtunut, ja päästelemään lattialle asti valuvia seikkailukokemusvesiä ammeen pohjasta viemäriin. 
 </p>
 
@@ -61,7 +57,7 @@ Ja niin elämä juoksi taas. Kun seuraavan seikkailun ensimmäiset vihjeet jo ku
 </p>
 
 <p>
-Seuraa pieni kehumisosio tälle vaatimattomalle kirjailijalle, joka muuten niin analyyttisen objektiivisesti kuvaa maailman menoa ympärillään, mutta joka harvoin antaa itselleen ansaitsemaansa ylistystä - mikä toki on ihan normaalia ja suotavaa. Ihan siitä lähtien kun olemme ystävystyneet, olen ihaillut ja saanut inspiraatiota siitä, että Riika on maagisesti onnistunut saavuttamaan ahkeruuden, fiksuuden ja luovuuden pyhän kolminaisuuden. Luovuuden avulla hän keksii mitä hauskimpia projekteja, jotka hän millintarkasti toteuttaa suunnitellussa aikataulussa ja vieläpä toteuttaa menestyksekkäästi, koska mikään ei näytä olevan hänelle liian vaikeaa tai monimutkaista (esimerkkinä nämä kuuluisat keinoälyt, mutta myös itsetehty kimchi, upeat käsityöt, arkkitehtoniset piparitalot, pianonsoitto ilman oppitunteja, painonnosto jne., jne). Ei liene siis yllätys, että monen päivän interrail-tyyppinen matkustus onnistuu ja sopii erittäin hyvin matkustusmuotona ihmiselle, joka on projektien mestari. Myös kirjojen kirjoittaminen pelkkien nuhaisten päiväkirjojen sijaan sopii kuin nenä päähän Riikan track recordiin - siitäkin huolimatta hämmästyn aina näitä lukiessani, miten rikkaalla suomen kiellä ja oivaltavalla huumorilla hän meitä viihdyttää. Olen onnellinen, että joku on jaksanut huomata ja kirjoittaa ylös mitä hauskimpia, ja usein yksinkertaisuudessaan kauniimpia yksityiskohtia minunkin elämästäni, jotta voin niitä myöhemmin muistella. 
+Seuraa pieni kehumisosio tälle vaatimattomalle kirjailijalle, joka muuten niin analyyttisen objektiivisesti kuvaa maailman menoa ympärillään, mutta joka harvoin antaa itselleen ansaitsemaansa ylistystä - mikä toki on ihan normaalia ja suotavaa. Ihan siitä lähtien kun olemme ystävystyneet, olen ihaillut ja saanut inspiraatiota siitä, että Riikka on maagisesti onnistunut saavuttamaan ahkeruuden, fiksuuden ja luovuuden pyhän kolminaisuuden. Luovuuden avulla hän keksii mitä hauskimpia projekteja, jotka hän millintarkasti toteuttaa suunnitellussa aikataulussa ja vieläpä toteuttaa menestyksekkäästi, koska mikään ei näytä olevan hänelle liian vaikeaa tai monimutkaista (esimerkkinä nämä kuuluisat keinoälyt, mutta myös itsetehty kimchi, upeat käsityöt, arkkitehtoniset piparitalot, pianonsoitto ilman oppitunteja, painonnosto jne., jne). Ei liene siis yllätys, että monen päivän interrail-tyyppinen matkustus onnistuu ja sopii erittäin hyvin matkustusmuotona ihmiselle, joka on projektien mestari. Myös kirjojen kirjoittaminen pelkkien nuhaisten päiväkirjojen sijaan sopii kuin nenä päähän Riikan track recordiin - siitäkin huolimatta hämmästyn aina näitä lukiessani, miten rikkaalla suomen kiellä ja oivaltavalla huumorilla hän meitä viihdyttää. Olen onnellinen, että joku on jaksanut huomata ja kirjoittaa ylös mitä hauskimpia, ja usein yksinkertaisuudessaan kauniimpia yksityiskohtia minunkin elämästäni, jotta voin niitä myöhemmin muistella. 
 </p>
 
 <p>
