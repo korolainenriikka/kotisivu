@@ -20,6 +20,10 @@ Jos mielesi tekee lueskella matkakertomuksiani,
 
 paina <a href='/kotisivu/matkakirjat/'>Tästä</a>.
 
+Jos haluat tilata kotisivun uutiskirjeen,
+
+paina <a href='/kotisivu/uutiskirje'>Tästä</a>.
+
 Hauska tavata!
 
 <em>Tämä sivu ei kerää sinusta mitään tietoja. <a href='https://motherfuckingwebsite.com'>Design-filosofiasta</a>. 
